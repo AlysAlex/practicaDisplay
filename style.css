@@ -38,8 +38,8 @@ body {
 
 .logo img {
     width: 7rem;
-    margin-left: 0.15rem;
-    margin-top: 1rem;
+    margin-left: 2.5rem;
+    margin-top: 1.15rem;
     position: float;
     float: left;
 }
@@ -60,6 +60,22 @@ body {
 .barraNavegacion {
     width: 38%;
     margin: 0 auto;
+}
+
+.contenedores {
+    position: relative;
+    top: 8.1rem;
+    width: 10%;
+    
+}
+
+.contenedor {
+    display: block;
+    padding: 3rem;
+    margin: 1.8rem;
+    border-radius: 1.5rem;
+    background-color: white;
+    opacity: 0.4;
 }
 
 .usuario {
